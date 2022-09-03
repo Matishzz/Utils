@@ -4,7 +4,7 @@
 </p>
 
 ## What is this?
-> **This is the storage of the scripts and complements used in my [Matishzz Tweaking Discord](https://discord.io/MatishzzTweaking)**
+> __This is the storage of the scripts and complements used in my [Matishzz Tweaking Discord](https://discord.io/MatishzzTweaking)__
 
 * Power Plans 
 * Device Manager Auto Tweaked
